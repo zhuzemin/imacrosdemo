@@ -1,7 +1,9 @@
 ﻿/*
 	The demo for captcha solve ,by use site ("www.ruokuai.com")
 	
-	create by "Zemin Zhu" https://github.com/zhuzemin
+	Create by "Zemin Zhu" https://github.com/zhuzemin
+	
+	Require: Firefox 45 - 47
 	
 	If you want give me some reward for my work, 
 	you can pay me by "Paypal" or "Alipay", click the link below.

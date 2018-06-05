@@ -1,4 +1,14 @@
-﻿reqUtils = {
+﻿/*	Create by "Zemin Zhu" https://github.com/zhuzemin
+	
+	Require: Firefox 45 - 47
+	
+	If you want give me some reward for my work, 
+	you can pay me by "Paypal" or "Alipay", click the link below.
+	
+	[Paypal](http://htmlpreview.github.io/?https://github.com/zhuzemin/51job_filter_addr/blob/master/paypalreceipt.html)
+	
+	[Alipay account](朱泽民 18357028716) */
+reqUtils = {
     //httpRequest(Object object) return "Object response"
     httpRequest: function(object) {
         var XMLHttpRequest = Components.Constructor("@mozilla.org/xmlextras/xmlhttprequest;1");

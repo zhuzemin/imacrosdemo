@@ -1,4 +1,14 @@
-﻿fileUtils = {
+﻿/*	Create by "Zemin Zhu" https://github.com/zhuzemin
+	
+	Require: Firefox 45 - 47
+	
+	If you want give me some reward for my work, 
+	you can pay me by "Paypal" or "Alipay", click the link below.
+	
+	[Paypal](http://htmlpreview.github.io/?https://github.com/zhuzemin/51job_filter_addr/blob/master/paypalreceipt.html)
+	
+	[Alipay account](朱泽民 18357028716) */
+fileUtils = {
     //delete File
     removeFile: function(path) {
         var aFile = Components.classes["@mozilla.org/file/local;1"].createInstance();
