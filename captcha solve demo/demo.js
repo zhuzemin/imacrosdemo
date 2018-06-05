@@ -1,4 +1,4 @@
-/*
+Ôªø/*
 	The demo for captcha solve ,by use site ("www.ruokuai.com")
 	
 	create by "Zemin Zhu" https://github.com/zhuzemin
@@ -8,7 +8,7 @@
 	
 	[Paypal](http://htmlpreview.github.io/?https://github.com/zhuzemin/51job_filter_addr/blob/master/paypalreceipt.html)
 	
-	[Alipay account](÷Ï‘Û√Ò 18357028716) 
+	[Alipay account](Êú±Ê≥ΩÊ∞ë 18357028716) 
 */
 //get dir ("/iMacros/Macros") absolute path 
 const SAVEPATH = imns.Pref.getFilePref("defsavepath").path;
